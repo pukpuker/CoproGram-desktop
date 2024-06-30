@@ -1,4 +1,4 @@
-# CoproGram – For Of Official Messenger
+# CoproGram – Fork Of Official Messenger
 
 This is a client for Telegram, using a fork of the official Telegram with the addition of its own patches.
 
