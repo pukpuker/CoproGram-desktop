@@ -6,7 +6,7 @@ This is a client for Telegram, using a fork of the official Telegram with the ad
 
 The latest version is available for
 
-* [Windows 7 and above (64 bit)]([https://telegram.org/dl/desktop/win64](https://github.com/pukpuker/CoproGram-desktop/releases))
+* ([Windows 7 and above (64 bit)]([https://telegram.org/dl/desktop/win64](https://github.com/pukpuker/CoproGram-desktop/releases))
 
 ## Third-party
 
